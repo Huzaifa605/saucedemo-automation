@@ -68,7 +68,7 @@ project-root/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Huzaifa605/saucedemo-automation.git
 ```
 
 2. Navigate to the project folder:
@@ -139,4 +139,4 @@ This demonstrates CI/CD readiness and modern automation practices.
 
 ## License
 
-This project is created as part of a **Numeo AI assignment** and is intended for educational and demonstration purposes.
+This project is created as part of a **Numeo AI assignment by Huzaifa Khalid** and is intended for educational and demonstration purposes.
