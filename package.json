@@ -1,0 +1,21 @@
+{
+  "name": "numeo_take_home",
+  "version": "1.0.0",
+  "description": "Cypress end-to-end automation suite for Numeo take-home assessment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "qa",
+    "e2e",
+    "numeo"
+  ],
+  "author": "Huzaifa Khalid",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.6.0"
+  }
+}
